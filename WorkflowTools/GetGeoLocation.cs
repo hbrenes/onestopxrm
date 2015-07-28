@@ -10,7 +10,7 @@ using System.Dynamic;
 using System.Web.Script.Serialization;
 using System.Net;
 
-namespace WorkflowTools
+namespace OneStopXRM.WorkflowTools
 {
     public class GetGeoLocationByAddress : CodeActivity
     {
